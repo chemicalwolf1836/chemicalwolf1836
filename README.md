@@ -5,7 +5,7 @@
 
 <h2>📄 Certifications</h2>
 <ul>
- <li><a href="https://coursera.org/share/b79ba831134bbef23c36768ca071b9d4">Meta Introduction to Front-End Development</a></li>
+ <li><a href="https://www.coursera.org/account/accomplishments/certificate/KLN73ZVA7FQA">Meta Introduction to Front-End Development</a></li>
 </ul> 
 
 
