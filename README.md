@@ -14,7 +14,7 @@
 <h2>📄 Certifications</h2>
 <ul>
  <li><a href= "https://coursera.org/verify/profession al-cert/9KWJXTF3XBPA"> Meta Front-End Developer Specialization</a></li>
- <li>pasta</li>
+ 
 </ul> 
 
 
