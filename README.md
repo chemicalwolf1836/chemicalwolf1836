@@ -13,6 +13,7 @@
 
 <h2>📄 Certifications</h2>
 <ul>
+ <li><a href= "https://coursera.org/verify/profession al-cert/9KWJXTF3XBPA"> Meta Front-End Developer Specialization</a></li>
  <li><a href="https://www.coursera.org/account/accomplishments/verify/KLN73ZVA7FQA">Meta Introduction to Front-End Development</a></li>
 </ul> 
 
