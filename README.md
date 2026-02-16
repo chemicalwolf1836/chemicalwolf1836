@@ -9,10 +9,10 @@
  
 
 <h2>📄 Certifications</h2>
+
 <ul>
 <li><a [Coursera 9KWJXTF3XBPA.pdf](https://github.com/user-attachments/files/25347142/Coursera.9KWJXTF3XBPA.pdf)
-> Meta Front-End Developer Specialization</a></li>
- 
+> Meta Front-End Developer Specialization</a></li> 
 </ul> 
 
 
