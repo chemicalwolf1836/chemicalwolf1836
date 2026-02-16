@@ -4,6 +4,8 @@
 
 I’m learning Front-End Development and building practical tools while actively applying for IT Support roles.
 
+I’m particularly interested in structured workflow systems and AI-assisted tools that improve clarity and usability.
+
 ---
 
 ## 🔍 What I Do
