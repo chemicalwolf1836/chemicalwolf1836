@@ -1,28 +1,62 @@
-<h1>Hi, I'm Batmagnai!</h1> <br/><a href="https://github.com/chemicalwolf1836">Programmer</a>, <a href="https://www.linkedin.com/in/batmagnai-ganbaatar-025a94211/">Aspiring Front-End Developer</a>, 
+# 👋 Hi, I’m Batmagnai
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<ul> <li> <a href =https://batmagnai-portfolio.netlify.app/> Portfolio Website - Promptkit Application</a> </li>
-<li> <a href =https://github.com/chemicalwolf1836/Little-Lemon-Menu/blob/main/README.md>Little Lemon Menu</a> </li>
-<li> <a href =https://github.com/chemicalwolf1836/MyApp/tree/main/Downloads/Little-Lemon-Reservation-Table-App-main>Little Lemon Website</a> </li>
+🇯🇵 Based in Japan | Bilingual (English & Intermediate Japanese)
 
-  <h2>📜 Certifications: </h2>
-<ul> 
-<li> <a href =https://github.com/user-attachments/files/25347142/Coursera.9KWJXTF3XBPA.pdf)> Meta Front-End Developer Specialization</a></li> 
+I’m learning Front-End Development and building practical tools while actively applying for IT Support roles.
 
-</ul>
+---
 
+## 🔍 What I Do
 
+🎯 Building user-focused web tools using HTML, CSS, and JavaScript  
+🤖 Creating workflow systems that leverage AI tools for structure and clarity  
+💡 Improving usability and state persistence (localStorage, event handling)  
+📌 Documenting my learning and code with clear READMEs
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🚀 Projects
 
+### ⭐ PromptKit
+A front-end workflow tool that turns rough project notes into structured prompts.
+- Client-side state save & autosave UX
+- Input validation and user feedback
+- Live preview updating
+**👉 https://github.com/chemicalwolf1836/minimalist-portfolio**
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 🍋 Little Lemon Menu
+A responsive restaurant menu interface built with HTML/CSS/JS.
+**👉 https://github.com/chemicalwolf1836/little-lemon-website**
 
+### 🧠 AI Workflow Examples
+Structured prompt patterns and examples demonstrating AI-assisted workflows.
+**(Add link or documentation here)**
 
-[instagram]: https://www.instagram.com/seandavis1836/
-[linkedin]: https://linkedin.com/in/batmagnai-ganbaatar-025a94211
+---
 
+## 🧩 Skills
 
+**Web Development:**
+- HTML / CSS / JavaScript (DOM & interactivity)
 
+**Workflow & UX:**
+- Workflow documentation
+- AI prompt design
+- State management (localStorage)
+
+**Tools:**
+- VS Code
+- Git / GitHub
+- Netlify Deployment
+
+**Certifications:**
+- CompTIA A+ (Core 1 — Passed)
+- CompTIA A+ Core 2 — In Progress
+
+---
+
+## 💬 Let’s Connect
+
+🔗 Portfolio: https://batmagnai-portfolio.netlify.app  
+🔗 LinkedIn: https://linkedin.com/in/batmagnai-ganbaatar-025a94211  
+📫 Email: batmagnai.ganbaatar@gmail.com
