@@ -7,17 +7,11 @@
 <li> <a href =https://github.com/chemicalwolf1836/MyApp/tree/main/Downloads/Little-Lemon-Reservation-Table-App-main>Little Lemon Website</a> </li>
 
  
-</ul>
-
-<h2>💻 Cybersecurity Project</h2>
-<ul>
- <li><a href=https://github.com/chemicalwolf1836/Active-Directory-Lab>Active Directory Home Lab</a></li>
-</ul> 
-
 
 <h2>📄 Certifications</h2>
 <ul>
- <li><a href= "https://coursera.org/verify/profession al-cert/9KWJXTF3XBPA"> Meta Front-End Developer Specialization</a></li>
+ <li><a [Coursera 9KWJXTF3XBPA.pdf](https://github.com/user-attachments/files/25347142/Coursera.9KWJXTF3XBPA.pdf)
+> Meta Front-End Developer Specialization</a></li>
  
 </ul> 
 
