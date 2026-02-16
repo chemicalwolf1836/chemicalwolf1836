@@ -5,12 +5,12 @@
 <li> <a href =https://github.com/chemicalwolf1836/Little-Lemon-Menu/blob/main/README.md>Little Lemon Menu</a> </li>
 <li> <a href =https://github.com/chemicalwolf1836/MyApp/tree/main/Downloads/Little-Lemon-Reservation-Table-App-main>Little Lemon Website</a> </li>
 
-<h2>📄 Certifications</h2>
-<ul>
-
+  <h2>📜 Certifications: </h2>
+<ul> 
 <li> <a href =https://github.com/user-attachments/files/25347142/Coursera.9KWJXTF3XBPA.pdf)> Meta Front-End Developer Specialization</a></li> 
 
-</ul> 
+</ul>
+
 
 
 
