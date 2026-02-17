@@ -24,7 +24,7 @@ A front-end workflow tool that turns rough project notes into structured prompts
 - Client-side state save & autosave UX
 - Input validation and user feedback
 - Live preview updating
-**👉 https://github.com/chemicalwolf1836/minimalist-portfolio**
+**👉 https://https://batmagnai-portfolio.netlify.app/promptkit**
 
 ### 🍋 Little Lemon Menu
 A responsive restaurant menu interface built with HTML/CSS/JS.
