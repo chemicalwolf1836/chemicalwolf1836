@@ -11,7 +11,7 @@ I focus on clean UI, practical workflow tools, and small applications that solve
 
 ## 🔍 What I Do
 
-🎯 Building user-focused web tools using HTML, CSS, and JavaScript  
+🎯 Building practical web tools and AI-assisted workflow systems using React, Next.js, and TypeScript.
 🤖 Creating workflow systems that leverage AI tools for structure and clarity  
 💡 Improving usability and state persistence (localStorage, event handling)  
 📌 Documenting my learning and code with clear READMEs
