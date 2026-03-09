@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Batmagnai%20Ganbaatar&fontSize=40)
+
 # 👋 Hi, I’m Batmagnai
 
 🇯🇵 Based in Japan | Bilingual (English & Intermediate Japanese)
@@ -76,6 +78,12 @@ Backend
 - Git / GitHub
 - Netlify Deployment
 - Vercel
+
+## 📊 GitHub Stats
+
+![Batmagnai's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemicalwolf1836&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chemicalwolf1836&layout=compact&theme=dark)
 
 
 **Certifications:**
