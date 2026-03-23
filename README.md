@@ -6,7 +6,7 @@
 
 I'm transitioning into Front-End Development and building practical full-stack web projects while applying for IT Support and developer roles.
 
-I focus on clean UI, practical workflow tools, and small applications that solve real usability problems.
+Clean UI, practical workflow tools, and usability-driven applications.
 ---
 
 ## 🔍 What I Do
