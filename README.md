@@ -38,12 +38,37 @@ https://tokyo-neon-bar.vercel.app
 💻 GitHub  
 https://github.com/chemicalwolf1836/tokyo-neon-bar
 
-### ⭐ PromptKit
-A front-end workflow tool that turns rough project notes into structured prompts.
-- Client-side state save & autosave UX
-- Input validation and user feedback
-- Live preview updating
-**👉 https://batmagnai-portfolio.netlify.app/promptkit**
+### ⭐ PromptKit (v2)
+
+A front-end workflow tool that transforms rough project notes into structured, reusable outputs for portfolio documentation and AI workflows.
+
+Built to improve clarity, consistency, and speed when writing project breakdowns.
+
+### Core Features
+
+- Structured input system (Problem / Actions / Result / Tools)
+- Live preview that updates in real time
+- Autosave and draft persistence using localStorage
+
+### Prompt Management
+
+- Save prompts as reusable cards
+- Load saved prompts back into the editor
+- Delete stored prompts
+- Search and filter saved prompts
+
+### Data Portability
+
+- Export prompts as a JSON file
+- Import prompts from a JSON file
+
+### UX Improvements
+
+- Immediate feedback while typing
+- Clean card-based UI system
+- Designed for fast iteration and reuse
+
+👉 Live tool: https://batmagnai-portfolio.netlify.app/promptkit
 
 
 ### 🍋 Little Lemon Menu
