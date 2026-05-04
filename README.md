@@ -133,6 +133,15 @@ Backend
 • Node.js  
 • API Routes  
 • Email APIs (Resend)
+• Python
+
+**AI & ML**
+- Groq API 
+- LLM Engineering 
+- RAG (Retrieval-Augmented Generation)           
+- sentence-transformers 
+- numpy 
+- Gradio     
 
 **Workflow & UX:**
 - Workflow documentation
@@ -144,6 +153,7 @@ Backend
 - Git / GitHub
 - Netlify Deployment
 - Vercel
+- Hugging Face Spaces
 
 
 **Certifications:**
