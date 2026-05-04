@@ -34,6 +34,7 @@ A cyberpunk-style bilingual cocktail bar website designed for Tokyo nightlife ve
 
 
 🔗 Live Demo: https://tokyo-neon-bar.vercel.app
+
 💻 GitHub: https://github.com/chemicalwolf1836/tokyo-neon-bar
 
 ---
@@ -51,6 +52,7 @@ A front-end workflow tool that transforms rough project notes into structured, r
 
 
 🔗 Live Demo: https://batmagnai-portfolio.netlify.app/promptkit.html
+
 💻 GitHub: https://github.com/chemicalwolf1836/Batmagnai-Ganbaatar---Portfolio-
 
 ---
@@ -67,6 +69,7 @@ A Python AI tool that generates 20,000+ word structured handbooks from uploaded 
 
 
 🔗 Live Demo: https://huggingface.co/spaces/chemicalwolf1836/handbook-generator
+
 💻 GitHub: https://github.com/chemicalwolf1836/handbook-generator
 
 ---
