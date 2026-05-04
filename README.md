@@ -96,6 +96,7 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
   persistence
   
   • Wrapped in a Gradio chat interface with live streaming and markdown export  
+  
                                                                                 
   🔗 Live Demo: https://huggingface.co/spaces/chemicalwolf1836/handbook-generator
   
