@@ -38,6 +38,10 @@ https://tokyo-neon-bar.vercel.app
 💻 GitHub  
 https://github.com/chemicalwolf1836/tokyo-neon-bar
 
+<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
+
+
 ### ⭐ PromptKit (v2)
 
 A front-end workflow tool that transforms rough project notes into structured, reusable outputs for portfolio documentation and AI workflows.
@@ -70,13 +74,50 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
 
 👉 Live tool: https://batmagnai-portfolio.netlify.app/promptkit
 
+<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
+
+
+
+### 🤖 AI Handbook Generator
+                                                                                
+  A Python AI tool that generates 20,000+ word structured handbooks from        
+  uploaded PDFs through a Gradio chat interface — using a custom RAG engine and
+  the LongWriter technique.                                                     
+                                                            
+  • Built a custom vector RAG engine with sentence-transformers + numpy cosine
+  similarity (no external vector DB)
+  
+  • Implemented the LongWriter/AgentWrite technique to bypass LLM output token
+  limits
+  
+  • Integrated Groq API (Llama 3.3 70B) for fast streaming generation
+  
+  • Built PDF processing pipeline with chunking, local embeddings, and disk     
+  persistence
+  
+  • Wrapped in a Gradio chat interface with live streaming and markdown export  
+                                                                                
+  🔗 Live Demo: https://huggingface.co/spaces/chemicalwolf1836/handbook-generator
+  
+  💻 GitHub: https://github.com/chemicalwolf1836/handbook-generator
+  
+
+<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
+  
+  
 
 ### 🍋 Little Lemon Menu
 A responsive restaurant menu interface built with HTML/CSS/JS.
 **👉 https://github.com/chemicalwolf1836/little-lemon-website**
 
+<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
 ### 🧠 AI Workflow Examples
 Structured prompt patterns and examples demonstrating AI-assisted workflows.
+
+<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
 
 ---
 
