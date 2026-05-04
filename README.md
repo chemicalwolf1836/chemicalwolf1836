@@ -133,5 +133,7 @@ Structured prompt patterns and examples demonstrating AI-assisted workflows.
 ## 💬 Let's Connect
 
 🔗 Portfolio: https://batmagnai-portfolio.netlify.app
+
 🔗 LinkedIn: https://linkedin.com/in/batmagnai-ganbaatar-025a94211
+
 📫 Email: batmagnai.ganbaatar@gmail.com
