@@ -117,7 +117,6 @@ A responsive restaurant menu interface built with HTML/CSS/JS.
 ### 🧠 AI Workflow Examples
 Structured prompt patterns and examples demonstrating AI-assisted workflows.
 
-<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
 
 ---
 
