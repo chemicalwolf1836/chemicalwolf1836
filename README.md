@@ -132,8 +132,9 @@ Frontend
 Backend  
 • Node.js  
 • API Routes  
-• Email APIs (Resend)
+• Email APIs (Resend)   
 • Python
+
 
 **AI & ML**
 - Groq API 
