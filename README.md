@@ -91,20 +91,38 @@ Structured prompt patterns and examples demonstrating AI-assisted workflows.
 ## 🧰 Skills
 
 **Frontend**
-- HTML - CSS - JavaScript - React - Next.js - Tailwind CSS
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS
 
 **Backend**
-- Node.js - API Routes - Email APIs (Resend) - Python
+- Node.js
+- API Routes
+- Email APIs (Resend)
+- Python
 
 **AI & ML**
-- Groq API - LLM Engineering - RAG (Retrieval-Augmented Generation)
-- sentence-transformers - numpy - Gradio
+- Groq API
+- LLM Engineering
+- RAG (Retrieval-Augmented Generation)
+- sentence-transformers
+- numpy
+- Gradio
 
 **Workflow & UX**
-- Workflow documentation - AI prompt design - State management (localStorage)
+- Workflow documentation
+- AI prompt design
+- State management (localStorage)
 
 **Tools**
-- VS Code - Git / GitHub - Netlify - Vercel - Hugging Face Spaces
+- VS Code
+- Git / GitHub
+- Netlify
+- Vercel
+- Hugging Face Spaces
 
 **Certifications**
 - CompTIA A+ (Core 1 — Passed)
