@@ -81,8 +81,7 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
 
 ### 🤖 AI Handbook Generator
                                                                                 
-  A Python AI tool that generates 20,000+ word structured handbooks from        
-  uploaded PDFs through a Gradio chat interface — using a custom RAG engine and
+  A Python AI tool that generates 20,000+ word structured handbooks from uploaded PDFs through a Gradio chat interface — using a custom RAG engine and
   the LongWriter technique.                                                     
                                                             
   • Built a custom vector RAG engine with sentence-transformers + numpy cosine
