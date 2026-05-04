@@ -14,13 +14,9 @@ Clean UI • Practical tools • Usability
 ## 🔍 What I Do
 
 🎯 Building practical web tools and AI-assisted workflow systems using React, Next.js, and TypeScript.
-
 🤖 Engineering AI applications with Python, Groq API, RAG pipelines, and LLM generation techniques. 
-
 🤖 Creating workflow systems that leverage AI tools for structure and clarity.  
-
 💡 Improving usability and state persistence (localStorage, event handling).  
-
 📌 Documenting my learning and code with clear READMEs.
 
 ---
