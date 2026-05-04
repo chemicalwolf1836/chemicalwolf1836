@@ -38,7 +38,7 @@ https://tokyo-neon-bar.vercel.app
 💻 GitHub  
 https://github.com/chemicalwolf1836/tokyo-neon-bar
 
-<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
 
 
 
@@ -74,7 +74,7 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
 
 👉 Live tool: https://batmagnai-portfolio.netlify.app/promptkit
 
-<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
 
 
 
@@ -103,7 +103,7 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
   💻 GitHub: https://github.com/chemicalwolf1836/handbook-generator
   
 
-<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
+
 
   
   
@@ -112,7 +112,6 @@ Built to improve clarity, consistency, and speed when writing project breakdowns
 A responsive restaurant menu interface built with HTML/CSS/JS.
 **👉 https://github.com/chemicalwolf1836/little-lemon-website**
 
-<sub>────────────────────────────────────────────────────────────────────────────────────</sub>
 
 ### 🧠 AI Workflow Examples
 Structured prompt patterns and examples demonstrating AI-assisted workflows.
