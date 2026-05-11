@@ -74,6 +74,20 @@ A Python AI tool that generates 20,000+ word structured handbooks from uploaded 
 
 ---
 
+### 💼 AI Job Application Assistant
+
+A Python AI tool that generates a full job application package — cover letter, CV suggestions, interview questions, and salary estimate — from a job description and optional CV upload.
+
+- Built a multi-section streaming pipeline using Groq API (Llama 3.3 70B) with live Gradio UI
+- Integrated PDF parsing for CV upload with PyMuPDF text extraction
+- Designed a dark iOS-style Gradio interface with custom CSS — card elevation, gradient button, toast notifications
+- Added Cmd+Enter shortcut, word count, copy-all, and clear-all for fast iteration
+- Error pulse animation triggered by JS MutationObserver — only fires on generation failure
+
+💻 GitHub: https://github.com/chemicalwolf1836/job-assistant-
+
+---
+
 ### 🍋 Little Lemon Menu
 
 A responsive restaurant menu interface built with HTML/CSS/JS.
