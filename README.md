@@ -31,6 +31,8 @@ A cyberpunk-style bilingual cocktail bar website designed for Tokyo nightlife ve
 - HTML lang attribute syncs to active language for screen reader accuracy
 - Cocktail finder with mood and sweetness scoring algorithm
 - Reservation form with email notifications via Resend API
+- Atmosphere gallery with fullscreen lightbox, prev/next navigation, and keyboard support (Arrows + Esc)
+- 6-theme colour palette picker (Dark, Blue Hour, Emerald, Crimson, Teal, Gold) with CSS variables and localStorage persistence
 - CSS neon tube flicker animation on the brand using keyframes
 - Responsive layout and Google Maps access section
 
