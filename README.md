@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Batmagnai
 
-🇯🇵 Based in Japan | Bilingual (English & Intermediate Japanese)
+🇯🇵 Based in Tokyo, Japan | Bilingual (English & Intermediate Japanese)
 
-I'm transitioning into Front-End Development and building practical full-stack web projects while applying for IT Support and developer roles.
+Front-end and full-stack developer building practical web apps and AI workflow tools. Open to developer and IT support roles in Japan and remote.
 
-Clean UI - Practical tools - Usability
+Clean UI — Practical tools — Usability first.
 
 ---
 
@@ -27,9 +27,11 @@ Clean UI - Practical tools - Usability
 A cyberpunk-style bilingual cocktail bar website designed for Tokyo nightlife venues serving both local customers and international visitors.
 
 - Built with Next.js, TypeScript, and Tailwind CSS
-- Bilingual interface (English / Japanese)
-- Cocktail finder component
-- Reservation form with email notifications
+- Persistent bilingual interface (EN/JP) — language preference saved to localStorage across sessions
+- HTML lang attribute syncs to active language for screen reader accuracy
+- Cocktail finder with mood and sweetness scoring algorithm
+- Reservation form with email notifications via Resend API
+- CSS neon tube flicker animation on the brand using keyframes
 - Responsive layout and Google Maps access section
 
 
@@ -108,6 +110,7 @@ Structured prompt patterns and examples demonstrating AI-assisted workflows.
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - React
 - Next.js
 - Tailwind CSS
