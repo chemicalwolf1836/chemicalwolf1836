@@ -22,6 +22,23 @@ Clean UI — Practical tools — Usability first.
 
 ## 🚀 Projects
 
+### 💰 RetireAI — AI Retirement Planner
+
+A full-stack SaaS web app that helps anyone plan their retirement with AI-powered projections and personalized recommendations.
+
+- Built with Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and shadcn/ui
+- Interactive savings projection chart using Recharts — projected vs target growth over time
+- Readiness breakdown across 4 key retirement indicators with progress bars
+- AI recommendations panel powered by the Claude API (Anthropic)
+- Scenario comparison — conservative (4%), moderate (7%), and aggressive (10%) return projections
+- Supabase authentication (email/password) and PostgreSQL database with Row Level Security
+- 5-theme colour picker with CSS variable injection and localStorage persistence
+- Dark mode toggle persisted across sessions
+
+💻 GitHub: https://github.com/chemicalwolf1836/retirement-planner
+
+---
+
 ### 🍸 Tokyo Neon Kissa
 
 A cyberpunk-style bilingual cocktail bar website designed for Tokyo nightlife venues serving both local customers and international visitors.
