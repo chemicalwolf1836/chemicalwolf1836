@@ -35,6 +35,8 @@ A full-stack SaaS web app that helps anyone plan their retirement with AI-powere
 - 5-theme colour picker with CSS variable injection and localStorage persistence
 - Dark mode toggle persisted across sessions
 
+🔗 Live Demo: https://retirement-planner-chi.vercel.app
+
 💻 GitHub: https://github.com/chemicalwolf1836/retirement-planner
 
 ---
