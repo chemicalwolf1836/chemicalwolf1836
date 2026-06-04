@@ -123,7 +123,7 @@ A front-end workflow tool that transforms rough project notes into structured, r
 - Autosave and draft persistence using localStorage
 - Save, reload, export, import, search, and filter saved prompts as reusable cards
 
-🔗 Live Demo: https://batmagnai-portfolio.netlify.app/promptkit.html
+🔗 Live Demo: https://batmagnai-ganbaatar-portfolio.vercel.app/promptkit.html
 
 💻 GitHub: https://github.com/chemicalwolf1836/Batmagnai-Ganbaatar---Portfolio-
 
@@ -175,7 +175,7 @@ A responsive restaurant menu interface built with HTML/CSS/JS.
 
 ## 💬 Let's Connect
 
-🔗 Portfolio: https://batmagnai-portfolio.netlify.app
+🔗 Portfolio: https://batmagnai-ganbaatar-portfolio.vercel.app
 
 🔗 LinkedIn: https://linkedin.com/in/batmagnai-ganbaatar-025a94211
 
