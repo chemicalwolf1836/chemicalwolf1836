@@ -86,31 +86,33 @@ A cyberpunk-style bilingual cocktail bar website for Tokyo nightlife venues, fea
 
 ### 🤖 AI Handbook Generator
 
-A Python AI tool that generates 20,000+ word structured handbooks from uploaded PDFs through a Gradio chat interface — using a custom RAG engine and the LongWriter technique.
+Upload PDFs (or just name a topic) and generate a structured, multi-section handbook — planned, written section by section, and streamed live. Now running fully serverless inside my portfolio, rebuilt from my original Python/Gradio version.
 
-- Built a custom vector RAG engine with sentence-transformers + numpy cosine similarity (no external vector DB)
-- Implemented the LongWriter/AgentWrite technique to bypass LLM output token limits
-- Integrated Groq API (Llama 3.3 70B) for fast streaming generation
-- Built PDF processing pipeline with chunking, local embeddings, and disk persistence
-- Wrapped in a Gradio chat interface with live streaming and markdown export
+- Rebuilt from Python/Gradio into vanilla JavaScript with a Vercel Edge Function backend
+- Architected a two-mode API — one fast outline call, then one streamed call per section — so the browser orchestrates a multi-minute generation within serverless time limits
+- Implemented client-side PDF text extraction with pdf.js, processed in the visitor's browser
+- Streams each ~1,200-word section live using Llama 3.3 70B via the Groq API
+- Keeps the API key server-side behind the edge function, with Markdown export of the finished handbook
 
-🔗 Live Demo: https://huggingface.co/spaces/chemicalwolf1836/handbook-generator
+🔗 Live Demo: https://batmagnai-ganbaatar-portfolio.vercel.app/handbook-generator-app.html
 
-💻 GitHub: https://github.com/chemicalwolf1836/handbook-generator
+💻 GitHub: https://github.com/chemicalwolf1836/Batmagnai-Ganbaatar---Portfolio- (original Python version: https://github.com/chemicalwolf1836/handbook-generator)
 
 ---
 
 ### 💼 AI Job Application Assistant
 
-A Python AI tool that generates a full job application package — cover letter, CV suggestions, interview questions, and salary estimate — from a job description and optional CV upload.
+Upload a CV and paste a job description — get a tailored cover letter, CV suggestions, skills-gap analysis, interview questions, and a salary estimate. Now running fully serverless inside my portfolio, rebuilt from my original Python/Gradio version.
 
-- Built a multi-section streaming pipeline using Groq API (Llama 3.3 70B) with live Gradio UI
-- Integrated PDF parsing for CV upload with PyMuPDF text extraction
-- Designed a dark iOS-style Gradio interface with custom CSS — card elevation, gradient button, toast notifications
-- Added Cmd+Enter shortcut, word count, copy-all, and clear-all for fast iteration
-- Error pulse animation triggered by JS MutationObserver — only fires on generation failure
+- Rebuilt from Python/Gradio into vanilla JavaScript with a Vercel Edge Function backend
+- Streams Llama 3.3 70B responses token by token via the Groq API for a live-typing result panel
+- Implemented client-side CV parsing with pdf.js, so PDF text extraction happens in the browser
+- Designed five focused system prompts (cover letter, CV review, skills gap, interview prep, salary) selectable from one interface
+- Keeps the API key server-side behind the edge function, with copy and Markdown download for every result
 
-💻 GitHub: https://github.com/chemicalwolf1836/job-assistant-
+🔗 Live Demo: https://batmagnai-ganbaatar-portfolio.vercel.app/job-assistant-app.html
+
+💻 GitHub: https://github.com/chemicalwolf1836/Batmagnai-Ganbaatar---Portfolio- (original Python version: https://github.com/chemicalwolf1836/job-assistant-)
 
 ---
 
@@ -149,6 +151,7 @@ A responsive restaurant menu interface built with HTML/CSS/JS.
 **Backend**
 - Node.js
 - Next.js API Routes
+- Vercel Edge Functions
 - Supabase (PostgreSQL)
 - Email APIs (Resend)
 - Python
@@ -163,7 +166,7 @@ A responsive restaurant menu interface built with HTML/CSS/JS.
 
 **Tools**
 - Git / GitHub
-- Vercel, Netlify, Hugging Face Spaces
+- Vercel, Hugging Face Spaces
 - VS Code
 - Mapbox
 
