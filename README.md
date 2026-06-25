@@ -65,6 +65,24 @@ A full-stack SaaS web app that helps anyone plan their retirement with AI-powere
 
 ---
 
+### 🌆 Neon Kissa V2 — Bilingual Cocktail Bar Redesign
+
+A fully separate V2 of the Tokyo Neon Kissa concept, rebuilt in Next.js 16 and React 19 with a stronger design system and more interactive features.
+
+- Four switchable neon palettes (Ruby, Cyber, Amber, Jade) controlled by CSS custom properties — one attribute swap changes the whole site
+- Mood and sweetness-based cocktail finder that scores and ranks all menu items in real time as the user types
+- Bilingual virtual host Hana with rule-based responses in English and Japanese, reading the active language state
+- Reservation form with a confirmation state and bilingual plan-your-visit summary
+- Atmosphere mosaic using CSS Grid with tiles spanning multiple columns and rows
+- Daily hero image rotation from seven Unsplash photos chosen by day of the week
+- Built with Next.js 16, React 19, TypeScript, and Tailwind CSS v4
+
+🔗 Live Demo: https://neon-kissa-v2.vercel.app
+
+💻 GitHub: https://github.com/chemicalwolf1836/neon-kissa-v2
+
+---
+
 ### 🍸 Tokyo Neon Kissa — AI-Powered Cocktail Bar Website
 
 A cyberpunk-style bilingual cocktail bar website for Tokyo nightlife venues, featuring an AI virtual host.
