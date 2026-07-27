@@ -22,20 +22,20 @@ Clean UI - Practical tools - Usability first.
 
 ## 🚀 Projects
 
-### 🎌 BJT Trainer - Offline-First Japanese Vocabulary Trainer
+### 🎌 Verba - Offline-First Vocabulary Trainer for Language Exams
 
-A study tool for the Business Japanese Proficiency Test (BJT) that works entirely offline - I use it daily on the commute where there is no signal.
+A study tool that works entirely offline - I use it daily on the commute where there is no signal. Built to hold multiple languages and tests; the first course is the Business Japanese Proficiency Test (BJT).
 
 - Built with Next.js 16 (static export), TypeScript, and Tailwind CSS
-- **Audio-first recall** via the browser's native SpeechSynthesis API - speaks Japanese with zero network, no audio files
+- **Audio-first recall** via the browser's native SpeechSynthesis API - speaks with zero network, no audio files
 - **Leitner spaced repetition** - weak cards resurface first, and units unlock by mastery rather than on a fixed calendar
 - **Two progress goals** - a unit unlock ring on the study screen and a course mastery bar tracking every card from box 1 to box 5
-- **Shadowing mode** plus an installable PWA with a hand-written service worker for cache-first offline loading
-- Backed by **136 unit tests** over a pure, deterministic scheduling core
+- **Modular multi-course engine** - a second language or test is one data file plus one registry line, with no changes to the scheduler
+- **Shadowing mode** plus an installable PWA with a hand-written service worker; backed by 147 unit tests over a pure, deterministic core
 
-🔗 Live Demo: https://bjt-trainer.vercel.app
+🔗 Live Demo: https://verba-lang.vercel.app
 
-💻 GitHub: https://github.com/chemicalwolf1836/bjt-trainer
+💻 GitHub: https://github.com/chemicalwolf1836/verba
 
 ---
 
