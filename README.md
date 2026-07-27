@@ -33,6 +33,8 @@ A study tool for the Business Japanese Proficiency Test (BJT) that works entirel
 - **Shadowing mode** plus an installable PWA with a hand-written service worker for cache-first offline loading
 - Backed by **136 unit tests** over a pure, deterministic scheduling core
 
+🔗 Live Demo: https://bjt-trainer.vercel.app
+
 💻 GitHub: https://github.com/chemicalwolf1836/bjt-trainer
 
 ---
