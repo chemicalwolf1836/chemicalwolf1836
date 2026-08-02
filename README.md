@@ -33,7 +33,7 @@ A study tool that works entirely offline - I use it daily on the commute where t
 - **Modular multi-course engine** - a second language or test is one data file plus one registry line, with no changes to the scheduler
 - **Shadowing mode** plus an installable PWA with a hand-written service worker; backed by 147 unit tests over a pure, deterministic core
 
-🔗 Live Demo: https://verba-lang.vercel.app
+🔗 Live Demo: https://verbaapp.vercel.app
 
 💻 GitHub: https://github.com/chemicalwolf1836/verba
 
