@@ -31,7 +31,7 @@ A study tool that works entirely offline - I use it daily on the commute where t
 - **Leitner spaced repetition** - weak cards resurface first, and units unlock by mastery rather than on a fixed calendar
 - **Two progress goals** - a unit unlock ring on the study screen and a course mastery bar tracking every card from box 1 to box 5
 - **Modular multi-course engine** - a second language or test is one data file plus one registry line, with no changes to the scheduler
-- **Shadowing mode** plus an installable PWA with a hand-written service worker; backed by 147 unit tests over a pure, deterministic core
+- **Shadowing mode** plus an installable PWA with a hand-written service worker; backed by 157 unit tests over a pure, deterministic core
 
 🔗 Live Demo: https://verbaapp.vercel.app
 
